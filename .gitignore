@@ -1,0 +1,8 @@
+*.suo
+GobangGame.sdf
+*.sdf
+*.opendb
+bin
+obj
+*.pfx
+ipch

@@ -3,6 +3,8 @@
 #ifndef DATASTRUCT_H
 #define DATASTRUCT_H
 
+#define		INF			0x7fffffff
+
 #define		VALTYPE		int
 
 enum NodeType

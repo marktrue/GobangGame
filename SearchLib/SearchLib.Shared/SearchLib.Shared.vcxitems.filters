@@ -4,7 +4,6 @@
     <ClInclude Include="$(MSBuildThisFileDirectory)targetver.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)pch.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)SearchLib.h" />
-    <ClInclude Include="$(MSBuildThisFileDirectory)BaseData.h" />
     <ClInclude Include="$(MSBuildThisFileDirectory)DataStruct.h" />
   </ItemGroup>
   <ItemGroup>

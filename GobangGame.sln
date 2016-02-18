@@ -8,8 +8,14 @@ EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "GobangGame.Shared", "GobangGame\GobangGame.Shared\GobangGame.Shared.shproj", "{5E333669-3CB7-4D5E-8C7F-4B94B923F0E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GobangGame.Windows", "GobangGame\GobangGame.Windows\GobangGame.Windows.csproj", "{26A96987-F1D1-484F-929C-2169A9DF28BB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D46966D4-7A60-4F68-8FA5-5EB77B3E86ED} = {D46966D4-7A60-4F68-8FA5-5EB77B3E86ED}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GobangGame.WindowsPhone", "GobangGame\GobangGame.WindowsPhone\GobangGame.WindowsPhone.csproj", "{A1405066-2843-42F2-A769-1162074BAE85}"
+	ProjectSection(ProjectDependencies) = postProject
+		{28524524-62CD-449D-9417-41AEB08871CF} = {28524524-62CD-449D-9417-41AEB08871CF}
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SearchLib", "SearchLib", "{906EE5DC-E90C-4873-A11A-45C4B53DBAB8}"
 EndProject

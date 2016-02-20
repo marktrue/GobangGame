@@ -5,7 +5,6 @@ GobangGame.sdf
 bin
 obj
 ipch
-*.pfx
 *.cache
 *.opensdf
 SearchLib/SearchLib.WindowsPhone/Debug/SearchLib.WindowsPhone.vcxprojResolveAssemblyReference.cache
